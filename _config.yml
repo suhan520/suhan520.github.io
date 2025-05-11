@@ -96,7 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+<<<<<<< Updated upstream
 theme: landscape
+=======
+theme: butterfly
+>>>>>>> Stashed changes
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
